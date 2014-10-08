@@ -20,28 +20,37 @@ About Me
 Some Problems troubled me.
 ----------------------------
 
- 1. 极限问题与无穷问题 [2006-2014] 已经有些思路[参考<点集集合论>]
+ * 极限问题与无穷问题 [2006-2014] 已经有些思路[参考<点集集合论>]
 
 Hobbies
 ============
 
 Poems&Poets I prefer:
 
- 李白：<峨眉山月歌>等
- 曹植：<洛神赋>
- 李贺：<李凭箜篌引>
+ * 李白：<峨眉山月歌>等
+ 
+ * 曹植：<洛神赋>
+ 
+ * 李贺：<李凭箜篌引>
 
 Mathematics:
 
- ZFC
- Group Theory
- Thoery of Fourier Transfer technology [Bits of Hilbert space]
- Poincare Guess
- And so on
+ * ZFC
+
+ * Group Theory
+ 
+ * Thoery of Fourier Transfer technology [Bits of Hilbert space]
+ 
+ * Poincare Guess
+ 
+ * And so on
 
 Progamming language I prefer:
 
- Python
- C
- Java
- Lisp
+ * Python
+
+ * C
+
+ * Java
+
+ * Lisp
