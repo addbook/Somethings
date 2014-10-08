@@ -3,24 +3,28 @@ Some writings of mine
 
 个人作品等
 
+我即我，无可变；我非我，无可别。
+
 About Me
 -----------
 
  1. Education: Sichuan university of China
      Major: Applied physics
 
- 2. Natural language: English & Mandarin
+ 2. Natural language: 
+     English & Mandarin
 
- 3. Both: date(1988-11-06)@SiChuan.CHN
+ 3. Both:
+     date(1988-11-06)@SiChuan.CHN
 
  5. My personal blog:
-     Now: <www.addbook.cn>
+     Now: <www.addbook.cn>  
      Will be:<www.principle.hk>
 
 Some Problems troubled me.
 ----------------------------
 
- * 极限问题与无穷问题 [2006-2014] 已经有些思路[参考<点集集合论>]
+ * 极限问题与无穷问题 [2006] 已经有些思路[参考<点集集合论>]
 
 Hobbies
 ============
