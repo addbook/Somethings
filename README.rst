@@ -1,9 +1,7 @@
 Some writings of mine
 ======================
 
-个人作品等
-
-我即我，无可变；我非我，无可别。
+> 我即我，无可变；我非我，无可别。
 
 About Me
 -----------
@@ -14,7 +12,7 @@ About Me
  2. Natural language: 
      English & Mandarin
 
- 3. Both:
+ 3. Birth:
      date(1988-11-06)@SiChuan.CHN
 
  5. My personal blog:
@@ -49,7 +47,7 @@ Mathematics:
  
  * And so on
 
-Progamming language I prefer:
+Programming language I prefer:
 
  * Python
 
