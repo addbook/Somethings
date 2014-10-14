@@ -16,7 +16,8 @@ About Me
      date(1988-11-06)@SiChuan.CHN
 
  5. My personal blog:
-     Now: <www.addbook.cn>  
+     Now: <www.addbook.cn>
+     
      Will be:<www.principle.hk>
 
 Some Problems troubled me.
@@ -24,7 +25,7 @@ Some Problems troubled me.
 
  * 极限问题与无穷问题 [2006] 已经有些思路[参考<点集集合论>]
  
- * 机器智能问题 [2013] 处于思考状态，目前没有太头绪
+ * 机器智能问题 [2013] 处于思考状态，目前没有太多头绪
  
  * 生命本身
 
@@ -32,6 +33,8 @@ Hobbies
 ============
 
 Poems&Poets I prefer:
+
+ * 诗经.风.雅
 
  * 李白：<峨眉山月歌>等
  
