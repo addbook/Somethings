@@ -13,7 +13,7 @@ About Me
      English & Mandarin
 
  3. Birth:
-     date(1988-11-06)@SiChuan.CHN
+     date(1988-11-06)@Sichuan.China
 
  5. My personal blog:
      
