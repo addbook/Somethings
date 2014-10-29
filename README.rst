@@ -16,7 +16,6 @@ About Me
      date(1988-11-06)@SiChuan.CHN
 
  5. My personal blog:
-     Now: <www.addbook.cn>
      
      Will be:<www.principle.hk>
 
