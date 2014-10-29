@@ -57,9 +57,9 @@ Mathematics:
 Programming language I prefer:
 
  * Python
+ 
+ * clojure
 
  * C
-
- * Java
-
- * Lisp
+ 
+ * coffeescript
