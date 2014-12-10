@@ -57,8 +57,8 @@ Programming language I prefer:
 
  * Python
  
+ * Erlang
+ 
  * clojure
 
  * C
- 
- * coffeescript
