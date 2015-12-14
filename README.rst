@@ -15,10 +15,6 @@ About Me
  3. Birth:
      date(1988-11-06)@Sichuan.China
 
- 5. My personal blog:
-     
-     Will be:<www.principle.hk>
-
 Some Problems troubled me.
 ----------------------------
 
@@ -59,6 +55,10 @@ Programming language I prefer:
  
  * Erlang
  
- * clojure
+ * scala
 
  * C
+ 
+ * javascript
+ 
+ * shell
