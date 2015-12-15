@@ -1,7 +1,3 @@
-Some writings of mine
-======================
-
-    我即我，无可变；我非我，无可别。
 
 About Me
 -----------
@@ -11,9 +7,6 @@ About Me
 
  2. Natural language: 
      English & Mandarin
-
- 3. Birth:
-     date(1988-11-06)@Sichuan.China
 
 Some Problems troubled me.
 ----------------------------
