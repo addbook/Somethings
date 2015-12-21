@@ -45,4 +45,4 @@ Programming language I prefer:
  
  * javascript
  
- * shell
+ * golang
