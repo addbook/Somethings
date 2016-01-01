@@ -8,16 +8,12 @@ About Me
  2. Natural language: 
      English & Mandarin
 
- 4. 又作：无名
+ 4. 又作：无名 [无浮名沉于世，携诗文过百川]
 
 Some Problems troubled me.
 ----------------------------
 
- * 极限问题与无穷问题 [2006] 已经有些思路[参考<点集集合论>]
- 
- * 机器智能问题 [2013] 处于思考状态，目前没有太多头绪
- 
- * 生命本身
+ * 数学
 
 Hobbies
 ============
@@ -36,13 +32,6 @@ Mathematics:
 
  * ZFC
 
- * Group Theory
- 
- * Thoery of Fourier Transfer technology [Bits of Hilbert space]
- 
- * Poincare Guess
- 
- * And so on
 
 Programming language I prefer:
 
@@ -52,8 +41,8 @@ Programming language I prefer:
  
  * scala
 
- * C
+ * C/C++
  
  * javascript
  
- * shell
+ * golang
