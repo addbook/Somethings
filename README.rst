@@ -30,6 +30,8 @@ Mathematics:
  
  * Group Theory
  
+ * Neural Networks
+ 
  
 Sports:
 
