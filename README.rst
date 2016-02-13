@@ -28,6 +28,8 @@ Mathematics:
 
  * ZFC
  
+ * Group Theory
+ 
  
 Sports:
 
