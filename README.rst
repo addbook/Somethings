@@ -2,7 +2,7 @@
 About Me
 -----------
 
- 1. Education: Sichuan university of China
+ 1. Education: Sichuan university
      Major: Applied physics
 
  2. Natural language: 
