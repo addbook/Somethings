@@ -10,10 +10,6 @@ About Me
 
  4. 又作：无名 [无浮名沉于世，携诗文过百川]
 
-Some Problems troubled me.
-----------------------------
-
- * 数学
 
 Hobbies
 ============
@@ -31,6 +27,15 @@ Poems&Poets I prefer:
 Mathematics:
 
  * ZFC
+ 
+ 
+Sports:
+
+ * Table tennis
+ 
+ * Fitness
+ 
+ * Dance - Poppin style & Shuffle
 
 
 Programming language I prefer:
