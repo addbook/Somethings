@@ -2,7 +2,7 @@
 About Me
 -----------
 
- 1. Education: Sichuan university of China
+ 1. Education: Sichuan university
      Major: Applied physics
 
  2. Natural language: 
@@ -10,10 +10,6 @@ About Me
 
  4. 又作：无名 [无浮名沉于世，携诗文过百川]
 
-Some Problems troubled me.
-----------------------------
-
- * 数学
 
 Hobbies
 ============
@@ -31,6 +27,19 @@ Poems&Poets I prefer:
 Mathematics:
 
  * ZFC
+ 
+ * Group Theory
+ 
+ * Neural Networks
+ 
+ 
+Sports:
+
+ * Table tennis
+ 
+ * Fitness
+ 
+ * Dance - Poppin style & Shuffle
 
 
 Programming language I prefer:
