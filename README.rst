@@ -48,7 +48,7 @@ Programming language I prefer:
  
  * Erlang
  
- * scala
+ * java
 
  * C/C++
  
