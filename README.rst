@@ -26,9 +26,7 @@ Poems&Poets I prefer:
 
 Mathematics:
 
- * ZFC
- 
- * Group Theory
+ * Real analytics
  
  * Neural Networks
  
