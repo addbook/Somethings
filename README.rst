@@ -1,55 +1,7 @@
 
-About Me
------------
+无名 
+^^^^^
 
- 1. Education: Sichuan university
-     Major: Applied physics
+无浮名沉于世，携诗文过百川
 
- 2. Natural language: 
-     English & Mandarin
-
- 4. 又作：无名 [无浮名沉于世，携诗文过百川]
-
-
-Hobbies
-============
-
-Poems&Poets I prefer:
-
- * 诗经.风.雅
-
- * 李白：<峨眉山月歌>等
- 
- * 曹植：<洛神赋>
- 
- * 李贺：<李凭箜篌引>
-
-Mathematics:
-
- * Real analytics
- 
- * Neural Networks
- 
- 
-Sports:
-
- * Table tennis
- 
- * Fitness
- 
- * Dance - Poppin style & Shuffle
-
-
-Programming language I prefer:
-
- * Python
- 
- * Erlang
- 
- * java
-
- * C/C++
- 
- * javascript
- 
- * golang
+作品集
